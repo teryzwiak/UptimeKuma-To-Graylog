@@ -1,0 +1,6 @@
+{
+  "monitor_name": "{{monitor_name}}",
+  "status": "{{status}}",
+  "msg": "{{msg}}",
+  "time": "{{time}}"
+}
